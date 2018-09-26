@@ -4,4 +4,4 @@ Have a look !
 
 ![Alt text](http://i67.tinypic.com/or026g.png)
 
-Visit complete page on [stackblitz] (https://wikiviewer.stackblitz.io)
+[Visit complete page](https://wikiviewer.stackblitz.io)
